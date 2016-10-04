@@ -2409,6 +2409,7 @@
 				MODULEMAP_FILE = Sources/PMK.modulemap;
 				PRODUCT_NAME = PromiseKit;
 				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -2427,6 +2428,7 @@
 				MODULEMAP_FILE = Sources/PMK.modulemap;
 				PRODUCT_NAME = PromiseKit;
 				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
